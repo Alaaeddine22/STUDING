@@ -1,0 +1,4220 @@
+[
+  {
+    "id": 1,
+    "lessonId": 1,
+    "type": "multiple_choice",
+    "question": "How many fingers on one hand?",
+    "options": [
+      "3",
+      "5",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 2,
+    "lessonId": 1,
+    "type": "multiple_choice",
+    "question": "What comes after 4?",
+    "options": [
+      "3",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 3,
+    "lessonId": 1,
+    "type": "multiple_choice",
+    "question": "What comes before 7?",
+    "options": [
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 4,
+    "lessonId": 1,
+    "type": "fill_blank",
+    "question": "1, 2, 3, ___, 5",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 5,
+    "lessonId": 1,
+    "type": "multiple_choice",
+    "question": "Which is biggest: 3, 8, 5?",
+    "options": [
+      "3",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 6,
+    "lessonId": 1,
+    "type": "fill_blank",
+    "question": "0, 2, 4, 6, ___",
+    "correctAnswer": "8",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 7,
+    "lessonId": 2,
+    "type": "multiple_choice",
+    "question": "What comes after 15?",
+    "options": [
+      "14",
+      "16",
+      "17"
+    ],
+    "correctAnswer": "16",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 8,
+    "lessonId": 2,
+    "type": "fill_blank",
+    "question": "11, 12, 13, ___, 15",
+    "correctAnswer": "14",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 9,
+    "lessonId": 2,
+    "type": "multiple_choice",
+    "question": "Eggs in a dozen?",
+    "options": [
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "12",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 10,
+    "lessonId": 2,
+    "type": "multiple_choice",
+    "question": "Smaller: 18 or 13?",
+    "options": [
+      "18",
+      "13",
+      "20"
+    ],
+    "correctAnswer": "13",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 11,
+    "lessonId": 2,
+    "type": "fill_blank",
+    "question": "17, 18, ___, 20",
+    "correctAnswer": "19",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 12,
+    "lessonId": 3,
+    "type": "multiple_choice",
+    "question": "30 + 10 = ?",
+    "options": [
+      "20",
+      "40",
+      "50"
+    ],
+    "correctAnswer": "40",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 13,
+    "lessonId": 3,
+    "type": "fill_blank",
+    "question": "20, 40, 60, ___",
+    "correctAnswer": "80",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 14,
+    "lessonId": 3,
+    "type": "multiple_choice",
+    "question": "Biggest: 50, 90, 70?",
+    "options": [
+      "50",
+      "70",
+      "90"
+    ],
+    "correctAnswer": "90",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 15,
+    "lessonId": 3,
+    "type": "fill_blank",
+    "question": "10, 20, 30, ___, 50",
+    "correctAnswer": "40",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 16,
+    "lessonId": 3,
+    "type": "multiple_choice",
+    "question": "Cents in a dollar?",
+    "options": [
+      "10",
+      "50",
+      "100"
+    ],
+    "correctAnswer": "100",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 17,
+    "lessonId": 4,
+    "type": "multiple_choice",
+    "question": "500 + 500 = ?",
+    "options": [
+      "100",
+      "1000",
+      "900"
+    ],
+    "correctAnswer": "1000",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 18,
+    "lessonId": 4,
+    "type": "fill_blank",
+    "question": "200, 400, 600, ___",
+    "correctAnswer": "800",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 19,
+    "lessonId": 4,
+    "type": "multiple_choice",
+    "question": "Days in a year?",
+    "options": [
+      "365",
+      "100",
+      "400"
+    ],
+    "correctAnswer": "365",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 20,
+    "lessonId": 4,
+    "type": "multiple_choice",
+    "question": "Less: 750 or 500?",
+    "options": [
+      "750",
+      "500",
+      "250"
+    ],
+    "correctAnswer": "500",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 21,
+    "lessonId": 4,
+    "type": "fill_blank",
+    "question": "100, 200, ___, 400",
+    "correctAnswer": "300",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 22,
+    "lessonId": 5,
+    "type": "multiple_choice",
+    "question": "1+1=?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 23,
+    "lessonId": 5,
+    "type": "multiple_choice",
+    "question": "2+3=?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 24,
+    "lessonId": 5,
+    "type": "fill_blank",
+    "question": "3+___=5",
+    "correctAnswer": "2",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 25,
+    "lessonId": 5,
+    "type": "multiple_choice",
+    "question": "4+4=?",
+    "options": [
+      "6",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 26,
+    "lessonId": 5,
+    "type": "multiple_choice",
+    "question": "0+5=?",
+    "options": [
+      "0",
+      "5",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 27,
+    "lessonId": 5,
+    "type": "fill_blank",
+    "question": "___+3=7",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 28,
+    "lessonId": 6,
+    "type": "multiple_choice",
+    "question": "7+8=?",
+    "options": [
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 29,
+    "lessonId": 6,
+    "type": "multiple_choice",
+    "question": "9+6=?",
+    "options": [
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 30,
+    "lessonId": 6,
+    "type": "fill_blank",
+    "question": "8+___=17",
+    "correctAnswer": "9",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 31,
+    "lessonId": 6,
+    "type": "multiple_choice",
+    "question": "6+6=?",
+    "options": [
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "12",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 32,
+    "lessonId": 6,
+    "type": "fill_blank",
+    "question": "___+7=13",
+    "correctAnswer": "6",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 33,
+    "lessonId": 7,
+    "type": "multiple_choice",
+    "question": "12+15=?",
+    "options": [
+      "25",
+      "27",
+      "30"
+    ],
+    "correctAnswer": "27",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 34,
+    "lessonId": 7,
+    "type": "multiple_choice",
+    "question": "23+14=?",
+    "options": [
+      "35",
+      "37",
+      "39"
+    ],
+    "correctAnswer": "37",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 35,
+    "lessonId": 7,
+    "type": "fill_blank",
+    "question": "30+___=50",
+    "correctAnswer": "20",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 36,
+    "lessonId": 7,
+    "type": "multiple_choice",
+    "question": "44+11=?",
+    "options": [
+      "53",
+      "55",
+      "56"
+    ],
+    "correctAnswer": "55",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 37,
+    "lessonId": 7,
+    "type": "fill_blank",
+    "question": "25+25=___",
+    "correctAnswer": "50",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 38,
+    "lessonId": 8,
+    "type": "multiple_choice",
+    "question": "123+456=?",
+    "options": [
+      "579",
+      "589",
+      "679"
+    ],
+    "correctAnswer": "579",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 39,
+    "lessonId": 8,
+    "type": "multiple_choice",
+    "question": "200+300=?",
+    "options": [
+      "400",
+      "500",
+      "600"
+    ],
+    "correctAnswer": "500",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 40,
+    "lessonId": 8,
+    "type": "fill_blank",
+    "question": "150+___=400",
+    "correctAnswer": "250",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 41,
+    "lessonId": 8,
+    "type": "multiple_choice",
+    "question": "111+222=?",
+    "options": [
+      "333",
+      "322",
+      "343"
+    ],
+    "correctAnswer": "333",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 42,
+    "lessonId": 8,
+    "type": "fill_blank",
+    "question": "400+100=___",
+    "correctAnswer": "500",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 43,
+    "lessonId": 9,
+    "type": "multiple_choice",
+    "question": "5-2=?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 44,
+    "lessonId": 9,
+    "type": "multiple_choice",
+    "question": "4-1=?",
+    "options": [
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 45,
+    "lessonId": 9,
+    "type": "fill_blank",
+    "question": "3-___=0",
+    "correctAnswer": "3",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 46,
+    "lessonId": 9,
+    "type": "multiple_choice",
+    "question": "5-5=?",
+    "options": [
+      "0",
+      "1",
+      "5"
+    ],
+    "correctAnswer": "0",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 47,
+    "lessonId": 9,
+    "type": "multiple_choice",
+    "question": "4-2=?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 48,
+    "lessonId": 10,
+    "type": "multiple_choice",
+    "question": "15-8=?",
+    "options": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 49,
+    "lessonId": 10,
+    "type": "multiple_choice",
+    "question": "20-11=?",
+    "options": [
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 50,
+    "lessonId": 10,
+    "type": "fill_blank",
+    "question": "10-___=5",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 51,
+    "lessonId": 10,
+    "type": "multiple_choice",
+    "question": "18-9=?",
+    "options": [
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 52,
+    "lessonId": 10,
+    "type": "fill_blank",
+    "question": "14-7=___",
+    "correctAnswer": "7",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 53,
+    "lessonId": 11,
+    "type": "multiple_choice",
+    "question": "45-23=?",
+    "options": [
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": "22",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 54,
+    "lessonId": 11,
+    "type": "multiple_choice",
+    "question": "67-34=?",
+    "options": [
+      "31",
+      "33",
+      "35"
+    ],
+    "correctAnswer": "33",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 55,
+    "lessonId": 11,
+    "type": "fill_blank",
+    "question": "50-___=20",
+    "correctAnswer": "30",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 56,
+    "lessonId": 11,
+    "type": "multiple_choice",
+    "question": "88-44=?",
+    "options": [
+      "42",
+      "44",
+      "46"
+    ],
+    "correctAnswer": "44",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 57,
+    "lessonId": 11,
+    "type": "fill_blank",
+    "question": "75-25=___",
+    "correctAnswer": "50",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 58,
+    "lessonId": 12,
+    "type": "multiple_choice",
+    "question": "42-17=?",
+    "options": [
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswer": "25",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 59,
+    "lessonId": 12,
+    "type": "multiple_choice",
+    "question": "53-28=?",
+    "options": [
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswer": "25",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 60,
+    "lessonId": 12,
+    "type": "fill_blank",
+    "question": "80-___=45",
+    "correctAnswer": "35",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 61,
+    "lessonId": 12,
+    "type": "multiple_choice",
+    "question": "61-19=?",
+    "options": [
+      "40",
+      "42",
+      "44"
+    ],
+    "correctAnswer": "42",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 62,
+    "lessonId": 12,
+    "type": "fill_blank",
+    "question": "100-37=___",
+    "correctAnswer": "63",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 63,
+    "lessonId": 13,
+    "type": "multiple_choice",
+    "question": "2×3=?",
+    "options": [
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 64,
+    "lessonId": 13,
+    "type": "multiple_choice",
+    "question": "4×2=?",
+    "options": [
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 65,
+    "lessonId": 13,
+    "type": "fill_blank",
+    "question": "5×1=___",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 66,
+    "lessonId": 13,
+    "type": "multiple_choice",
+    "question": "3×3=?",
+    "options": [
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "9",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 67,
+    "lessonId": 13,
+    "type": "multiple_choice",
+    "question": "1×7=?",
+    "options": [
+      "1",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 68,
+    "lessonId": 14,
+    "type": "multiple_choice",
+    "question": "2×4=?",
+    "options": [
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 69,
+    "lessonId": 14,
+    "type": "multiple_choice",
+    "question": "2×7=?",
+    "options": [
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "14",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 70,
+    "lessonId": 14,
+    "type": "fill_blank",
+    "question": "2×___=12",
+    "correctAnswer": "6",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 71,
+    "lessonId": 14,
+    "type": "multiple_choice",
+    "question": "2×9=?",
+    "options": [
+      "16",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "18",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 72,
+    "lessonId": 14,
+    "type": "fill_blank",
+    "question": "2×5=___",
+    "correctAnswer": "10",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 73,
+    "lessonId": 15,
+    "type": "multiple_choice",
+    "question": "3×4=?",
+    "options": [
+      "9",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "12",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 74,
+    "lessonId": 15,
+    "type": "multiple_choice",
+    "question": "3×6=?",
+    "options": [
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswer": "18",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 75,
+    "lessonId": 15,
+    "type": "fill_blank",
+    "question": "3×___=21",
+    "correctAnswer": "7",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 76,
+    "lessonId": 15,
+    "type": "multiple_choice",
+    "question": "3×9=?",
+    "options": [
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": "27",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 77,
+    "lessonId": 15,
+    "type": "fill_blank",
+    "question": "3×8=___",
+    "correctAnswer": "24",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 78,
+    "lessonId": 16,
+    "type": "multiple_choice",
+    "question": "4×6=?",
+    "options": [
+      "20",
+      "24",
+      "28"
+    ],
+    "correctAnswer": "24",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 79,
+    "lessonId": 16,
+    "type": "multiple_choice",
+    "question": "5×7=?",
+    "options": [
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": "35",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 80,
+    "lessonId": 16,
+    "type": "fill_blank",
+    "question": "4×___=20",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 81,
+    "lessonId": 16,
+    "type": "multiple_choice",
+    "question": "5×9=?",
+    "options": [
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswer": "45",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 82,
+    "lessonId": 16,
+    "type": "fill_blank",
+    "question": "5×5=___",
+    "correctAnswer": "25",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 83,
+    "lessonId": 17,
+    "type": "multiple_choice",
+    "question": "6×4=?",
+    "options": [
+      "20",
+      "24",
+      "28"
+    ],
+    "correctAnswer": "24",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 84,
+    "lessonId": 17,
+    "type": "multiple_choice",
+    "question": "7×3=?",
+    "options": [
+      "18",
+      "21",
+      "24"
+    ],
+    "correctAnswer": "21",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 85,
+    "lessonId": 17,
+    "type": "fill_blank",
+    "question": "6×___=42",
+    "correctAnswer": "7",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 86,
+    "lessonId": 17,
+    "type": "multiple_choice",
+    "question": "7×7=?",
+    "options": [
+      "42",
+      "49",
+      "56"
+    ],
+    "correctAnswer": "49",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 87,
+    "lessonId": 17,
+    "type": "fill_blank",
+    "question": "6×8=___",
+    "correctAnswer": "48",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 88,
+    "lessonId": 18,
+    "type": "multiple_choice",
+    "question": "8×3=?",
+    "options": [
+      "21",
+      "24",
+      "27"
+    ],
+    "correctAnswer": "24",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 89,
+    "lessonId": 18,
+    "type": "multiple_choice",
+    "question": "9×4=?",
+    "options": [
+      "32",
+      "36",
+      "40"
+    ],
+    "correctAnswer": "36",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 90,
+    "lessonId": 18,
+    "type": "fill_blank",
+    "question": "8×___=40",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 91,
+    "lessonId": 18,
+    "type": "multiple_choice",
+    "question": "9×9=?",
+    "options": [
+      "72",
+      "81",
+      "90"
+    ],
+    "correctAnswer": "81",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 92,
+    "lessonId": 18,
+    "type": "fill_blank",
+    "question": "9×6=___",
+    "correctAnswer": "54",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 93,
+    "lessonId": 19,
+    "type": "multiple_choice",
+    "question": "10×7=?",
+    "options": [
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": "70",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 94,
+    "lessonId": 19,
+    "type": "multiple_choice",
+    "question": "11×5=?",
+    "options": [
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswer": "55",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 95,
+    "lessonId": 19,
+    "type": "fill_blank",
+    "question": "12×___=48",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 96,
+    "lessonId": 19,
+    "type": "multiple_choice",
+    "question": "12×12=?",
+    "options": [
+      "132",
+      "144",
+      "156"
+    ],
+    "correctAnswer": "144",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 97,
+    "lessonId": 19,
+    "type": "fill_blank",
+    "question": "10×10=___",
+    "correctAnswer": "100",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 98,
+    "lessonId": 20,
+    "type": "multiple_choice",
+    "question": "6÷2=?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 99,
+    "lessonId": 20,
+    "type": "multiple_choice",
+    "question": "10÷5=?",
+    "options": [
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 100,
+    "lessonId": 20,
+    "type": "fill_blank",
+    "question": "8÷___=2",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 101,
+    "lessonId": 20,
+    "type": "multiple_choice",
+    "question": "9÷3=?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 102,
+    "lessonId": 20,
+    "type": "fill_blank",
+    "question": "12÷4=___",
+    "correctAnswer": "3",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 103,
+    "lessonId": 21,
+    "type": "multiple_choice",
+    "question": "24÷6=?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 104,
+    "lessonId": 21,
+    "type": "multiple_choice",
+    "question": "36÷9=?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 105,
+    "lessonId": 21,
+    "type": "fill_blank",
+    "question": "45÷___=9",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 106,
+    "lessonId": 21,
+    "type": "multiple_choice",
+    "question": "56÷7=?",
+    "options": [
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 107,
+    "lessonId": 21,
+    "type": "fill_blank",
+    "question": "72÷8=___",
+    "correctAnswer": "9",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 108,
+    "lessonId": 22,
+    "type": "multiple_choice",
+    "question": "7÷2=?",
+    "options": [
+      "3 R1",
+      "3 R0",
+      "4 R1"
+    ],
+    "correctAnswer": "3 R1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 109,
+    "lessonId": 22,
+    "type": "multiple_choice",
+    "question": "10÷3=?",
+    "options": [
+      "3 R1",
+      "3 R0",
+      "4 R1"
+    ],
+    "correctAnswer": "3 R1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 110,
+    "lessonId": 22,
+    "type": "multiple_choice",
+    "question": "17÷5=?",
+    "options": [
+      "3 R1",
+      "3 R2",
+      "4 R2"
+    ],
+    "correctAnswer": "3 R2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 111,
+    "lessonId": 22,
+    "type": "multiple_choice",
+    "question": "11÷4=?",
+    "options": [
+      "2 R3",
+      "3 R1",
+      "2 R2"
+    ],
+    "correctAnswer": "2 R3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 112,
+    "lessonId": 22,
+    "type": "multiple_choice",
+    "question": "13÷2=?",
+    "options": [
+      "5 R3",
+      "6 R1",
+      "6 R0"
+    ],
+    "correctAnswer": "6 R1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 113,
+    "lessonId": 23,
+    "type": "multiple_choice",
+    "question": "Half of 10?",
+    "options": [
+      "3",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 114,
+    "lessonId": 23,
+    "type": "multiple_choice",
+    "question": "1/4 of 8=?",
+    "options": [
+      "2",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 115,
+    "lessonId": 23,
+    "type": "fill_blank",
+    "question": "1/2=___ quarters",
+    "correctAnswer": "2",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 116,
+    "lessonId": 23,
+    "type": "multiple_choice",
+    "question": "Bigger: 1/2 or 1/3?",
+    "options": [
+      "1/2",
+      "1/3",
+      "Same"
+    ],
+    "correctAnswer": "1/2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 117,
+    "lessonId": 23,
+    "type": "multiple_choice",
+    "question": "3/4 means ___ parts out of 4",
+    "options": [
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 118,
+    "lessonId": 24,
+    "type": "multiple_choice",
+    "question": "Bigger: 2/3 or 1/3?",
+    "options": [
+      "2/3",
+      "1/3",
+      "Same"
+    ],
+    "correctAnswer": "2/3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 119,
+    "lessonId": 24,
+    "type": "multiple_choice",
+    "question": "2/4=?",
+    "options": [
+      "1/3",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": "1/2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 120,
+    "lessonId": 24,
+    "type": "multiple_choice",
+    "question": "Smallest: 1/2,1/4,1/8?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8"
+    ],
+    "correctAnswer": "1/8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 121,
+    "lessonId": 24,
+    "type": "fill_blank",
+    "question": "1/2=2/___",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 122,
+    "lessonId": 24,
+    "type": "multiple_choice",
+    "question": "3/4 __ 1/4",
+    "options": [
+      "<",
+      ">",
+      "="
+    ],
+    "correctAnswer": ">",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 123,
+    "lessonId": 25,
+    "type": "multiple_choice",
+    "question": "1/4+2/4=?",
+    "options": [
+      "1/4",
+      "2/4",
+      "3/4"
+    ],
+    "correctAnswer": "3/4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 124,
+    "lessonId": 25,
+    "type": "multiple_choice",
+    "question": "3/5-1/5=?",
+    "options": [
+      "1/5",
+      "2/5",
+      "4/5"
+    ],
+    "correctAnswer": "2/5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 125,
+    "lessonId": 25,
+    "type": "fill_blank",
+    "question": "1/3+1/3=___/3",
+    "correctAnswer": "2",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 126,
+    "lessonId": 25,
+    "type": "multiple_choice",
+    "question": "4/6-2/6=?",
+    "options": [
+      "1/6",
+      "2/6",
+      "3/6"
+    ],
+    "correctAnswer": "2/6",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 127,
+    "lessonId": 25,
+    "type": "fill_blank",
+    "question": "2/5+2/5=___/5",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 128,
+    "lessonId": 26,
+    "type": "multiple_choice",
+    "question": "0.5=?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3"
+    ],
+    "correctAnswer": "1/2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 129,
+    "lessonId": 26,
+    "type": "multiple_choice",
+    "question": "0.25=?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": "1/4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 130,
+    "lessonId": 26,
+    "type": "fill_blank",
+    "question": "0.1=1/___",
+    "correctAnswer": "10",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 131,
+    "lessonId": 26,
+    "type": "multiple_choice",
+    "question": "Bigger: 0.7 or 0.3?",
+    "options": [
+      "0.3",
+      "0.7",
+      "Same"
+    ],
+    "correctAnswer": "0.7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 132,
+    "lessonId": 26,
+    "type": "multiple_choice",
+    "question": "1.0=?",
+    "options": [
+      "0",
+      "1",
+      "10"
+    ],
+    "correctAnswer": "1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 133,
+    "lessonId": 27,
+    "type": "multiple_choice",
+    "question": "1.5+2.3=?",
+    "options": [
+      "3.7",
+      "3.8",
+      "4.0"
+    ],
+    "correctAnswer": "3.8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 134,
+    "lessonId": 27,
+    "type": "multiple_choice",
+    "question": "3.7-1.2=?",
+    "options": [
+      "2.4",
+      "2.5",
+      "2.6"
+    ],
+    "correctAnswer": "2.5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 135,
+    "lessonId": 27,
+    "type": "fill_blank",
+    "question": "0.5+0.5=___",
+    "correctAnswer": "1.0",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 136,
+    "lessonId": 27,
+    "type": "multiple_choice",
+    "question": "4.2-1.1=?",
+    "options": [
+      "3.0",
+      "3.1",
+      "3.3"
+    ],
+    "correctAnswer": "3.1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 137,
+    "lessonId": 27,
+    "type": "fill_blank",
+    "question": "2.0+1.5=___",
+    "correctAnswer": "3.5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 138,
+    "lessonId": 28,
+    "type": "multiple_choice",
+    "question": "Triangle sides?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 139,
+    "lessonId": 28,
+    "type": "multiple_choice",
+    "question": "Circle corners?",
+    "options": [
+      "0",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "0",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 140,
+    "lessonId": 28,
+    "type": "multiple_choice",
+    "question": "Wheel shape?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "correctAnswer": "Circle",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 141,
+    "lessonId": 28,
+    "type": "fill_blank",
+    "question": "A square has ___ sides",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 142,
+    "lessonId": 28,
+    "type": "multiple_choice",
+    "question": "3 sides shape?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle"
+    ],
+    "correctAnswer": "Triangle",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 143,
+    "lessonId": 29,
+    "type": "multiple_choice",
+    "question": "Rectangle sides?",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 144,
+    "lessonId": 29,
+    "type": "multiple_choice",
+    "question": "Egg shape?",
+    "options": [
+      "Circle",
+      "Oval",
+      "Square"
+    ],
+    "correctAnswer": "Oval",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 145,
+    "lessonId": 29,
+    "type": "fill_blank",
+    "question": "A diamond has ___ sides",
+    "correctAnswer": "4",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 146,
+    "lessonId": 29,
+    "type": "multiple_choice",
+    "question": "Door shape?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctAnswer": "Rectangle",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 147,
+    "lessonId": 29,
+    "type": "multiple_choice",
+    "question": "All sides equal?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Oval"
+    ],
+    "correctAnswer": "Square",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 148,
+    "lessonId": 30,
+    "type": "multiple_choice",
+    "question": "Pentagon sides?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 149,
+    "lessonId": 30,
+    "type": "multiple_choice",
+    "question": "Stop sign shape?",
+    "options": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon"
+    ],
+    "correctAnswer": "Octagon",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 150,
+    "lessonId": 30,
+    "type": "fill_blank",
+    "question": "A hexagon has ___ sides",
+    "correctAnswer": "6",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 151,
+    "lessonId": 30,
+    "type": "multiple_choice",
+    "question": "Honeycomb cells?",
+    "options": [
+      "Pentagons",
+      "Hexagons",
+      "Octagons"
+    ],
+    "correctAnswer": "Hexagons",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 152,
+    "lessonId": 30,
+    "type": "multiple_choice",
+    "question": "Octagon sides?",
+    "options": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 153,
+    "lessonId": 31,
+    "type": "multiple_choice",
+    "question": "Perimeter square side 5?",
+    "options": [
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 154,
+    "lessonId": 31,
+    "type": "multiple_choice",
+    "question": "Area square side 3?",
+    "options": [
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "9",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 155,
+    "lessonId": 31,
+    "type": "fill_blank",
+    "question": "Perimeter rect 4×2=___",
+    "correctAnswer": "12",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 156,
+    "lessonId": 31,
+    "type": "multiple_choice",
+    "question": "Area rect 5×3?",
+    "options": [
+      "8",
+      "15",
+      "20"
+    ],
+    "correctAnswer": "15",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 157,
+    "lessonId": 31,
+    "type": "fill_blank",
+    "question": "Area square side 4=___",
+    "correctAnswer": "16",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 158,
+    "lessonId": 32,
+    "type": "multiple_choice",
+    "question": "Short hand on 3?",
+    "options": [
+      "3:00",
+      "6:00",
+      "12:00"
+    ],
+    "correctAnswer": "3:00",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 159,
+    "lessonId": 32,
+    "type": "multiple_choice",
+    "question": "Which shows hours?",
+    "options": [
+      "Short",
+      "Long",
+      "Both"
+    ],
+    "correctAnswer": "Short",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 160,
+    "lessonId": 32,
+    "type": "fill_blank",
+    "question": "A clock has ___ numbers",
+    "correctAnswer": "12",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 161,
+    "lessonId": 32,
+    "type": "multiple_choice",
+    "question": "Short hand on 12?",
+    "options": [
+      "6:00",
+      "12:00",
+      "1:00"
+    ],
+    "correctAnswer": "12:00",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 162,
+    "lessonId": 32,
+    "type": "multiple_choice",
+    "question": "Hours in a day?",
+    "options": [
+      "12",
+      "24",
+      "60"
+    ],
+    "correctAnswer": "24",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 163,
+    "lessonId": 33,
+    "type": "multiple_choice",
+    "question": "Minutes in 1 hour?",
+    "options": [
+      "30",
+      "60",
+      "100"
+    ],
+    "correctAnswer": "60",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 164,
+    "lessonId": 33,
+    "type": "fill_blank",
+    "question": "Long hand on 3=___ min",
+    "correctAnswer": "15",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 165,
+    "lessonId": 33,
+    "type": "multiple_choice",
+    "question": "Half past 4?",
+    "options": [
+      "4:15",
+      "4:30",
+      "4:45"
+    ],
+    "correctAnswer": "4:30",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 166,
+    "lessonId": 33,
+    "type": "fill_blank",
+    "question": "Quarter past 2=2:___",
+    "correctAnswer": "15",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 167,
+    "lessonId": 33,
+    "type": "multiple_choice",
+    "question": "Long hand on 6?",
+    "options": [
+      "15 min",
+      "30 min",
+      "45 min"
+    ],
+    "correctAnswer": "30 min",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 168,
+    "lessonId": 34,
+    "type": "multiple_choice",
+    "question": "8AM is?",
+    "options": [
+      "Morning",
+      "Afternoon",
+      "Night"
+    ],
+    "correctAnswer": "Morning",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 169,
+    "lessonId": 34,
+    "type": "multiple_choice",
+    "question": "2:00 to 5:00=?",
+    "options": [
+      "2h",
+      "3h",
+      "4h"
+    ],
+    "correctAnswer": "3h",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 170,
+    "lessonId": 34,
+    "type": "fill_blank",
+    "question": "3PM is in the ___",
+    "correctAnswer": "afternoon",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 171,
+    "lessonId": 34,
+    "type": "multiple_choice",
+    "question": "11PM is?",
+    "options": [
+      "Morning",
+      "Afternoon",
+      "Night"
+    ],
+    "correctAnswer": "Night",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 172,
+    "lessonId": 34,
+    "type": "multiple_choice",
+    "question": "9AM to 12PM?",
+    "options": [
+      "2h",
+      "3h",
+      "4h"
+    ],
+    "correctAnswer": "3h",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 173,
+    "lessonId": 35,
+    "type": "multiple_choice",
+    "question": "5+5 coins?",
+    "options": [
+      "5",
+      "10",
+      "15"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 174,
+    "lessonId": 35,
+    "type": "multiple_choice",
+    "question": "More: 5 or 10?",
+    "options": [
+      "5",
+      "10",
+      "Same"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 175,
+    "lessonId": 35,
+    "type": "fill_blank",
+    "question": "2+2+1=___ coins",
+    "correctAnswer": "5",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 176,
+    "lessonId": 35,
+    "type": "multiple_choice",
+    "question": "3+7 coins?",
+    "options": [
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 177,
+    "lessonId": 35,
+    "type": "multiple_choice",
+    "question": "1 bill of 10=___ coins of 1",
+    "options": [
+      "5",
+      "10",
+      "20"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 178,
+    "lessonId": 36,
+    "type": "multiple_choice",
+    "question": "Cost 7, pay 10, change?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 179,
+    "lessonId": 36,
+    "type": "multiple_choice",
+    "question": "Cost 15, pay 20?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 180,
+    "lessonId": 36,
+    "type": "fill_blank",
+    "question": "Cost 8, pay 10, change=___",
+    "correctAnswer": "2",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 181,
+    "lessonId": 36,
+    "type": "multiple_choice",
+    "question": "Cost 12, pay 20?",
+    "options": [
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 182,
+    "lessonId": 36,
+    "type": "fill_blank",
+    "question": "Cost 25, pay 50, change=___",
+    "correctAnswer": "25",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 183,
+    "lessonId": 37,
+    "type": "multiple_choice",
+    "question": "3 cats+2 more=?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 184,
+    "lessonId": 37,
+    "type": "multiple_choice",
+    "question": "4 books+3=?",
+    "options": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 185,
+    "lessonId": 37,
+    "type": "fill_blank",
+    "question": "5 birds+3=___",
+    "correctAnswer": "8",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 186,
+    "lessonId": 37,
+    "type": "multiple_choice",
+    "question": "6 apples+2=?",
+    "options": [
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 187,
+    "lessonId": 37,
+    "type": "fill_blank",
+    "question": "4 candies+4=___",
+    "correctAnswer": "8",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 188,
+    "lessonId": 38,
+    "type": "multiple_choice",
+    "question": "10 candies-4=?",
+    "options": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 189,
+    "lessonId": 38,
+    "type": "multiple_choice",
+    "question": "3 bags×5=?",
+    "options": [
+      "8",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 190,
+    "lessonId": 38,
+    "type": "fill_blank",
+    "question": "20 spent 8, left=___",
+    "correctAnswer": "12",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 191,
+    "lessonId": 38,
+    "type": "multiple_choice",
+    "question": "4 rows×3 chairs=?",
+    "options": [
+      "7",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 192,
+    "lessonId": 38,
+    "type": "fill_blank",
+    "question": "15 toys-6=___",
+    "correctAnswer": "9",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 193,
+    "lessonId": 39,
+    "type": "multiple_choice",
+    "question": "20-8+5=?",
+    "options": [
+      "15",
+      "17",
+      "19"
+    ],
+    "correctAnswer": "17",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 194,
+    "lessonId": 39,
+    "type": "multiple_choice",
+    "question": "3×4-2=?",
+    "options": [
+      "8",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 195,
+    "lessonId": 39,
+    "type": "fill_blank",
+    "question": "10+5-3=___",
+    "correctAnswer": "12",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 196,
+    "lessonId": 39,
+    "type": "multiple_choice",
+    "question": "2×5+10=?",
+    "options": [
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 197,
+    "lessonId": 39,
+    "type": "fill_blank",
+    "question": "30-10+5=___",
+    "correctAnswer": "25",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 198,
+    "lessonId": 40,
+    "type": "multiple_choice",
+    "question": "2,4,6,8,___?",
+    "options": [
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "10",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 199,
+    "lessonId": 40,
+    "type": "multiple_choice",
+    "question": "5,10,15,20,___?",
+    "options": [
+      "22",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "25",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 200,
+    "lessonId": 40,
+    "type": "fill_blank",
+    "question": "1,3,5,7,___",
+    "correctAnswer": "9",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 201,
+    "lessonId": 40,
+    "type": "multiple_choice",
+    "question": "3,6,9,12,___?",
+    "options": [
+      "14",
+      "15",
+      "18"
+    ],
+    "correctAnswer": "15",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 202,
+    "lessonId": 40,
+    "type": "fill_blank",
+    "question": "10,20,30,___",
+    "correctAnswer": "40",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 203,
+    "lessonId": 101,
+    "type": "multiple_choice",
+    "question": "ما أول حرف؟",
+    "options": [
+      "ب",
+      "أ",
+      "ت"
+    ],
+    "correctAnswer": "أ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 204,
+    "lessonId": 101,
+    "type": "multiple_choice",
+    "question": "أسد تبدأ بـ؟",
+    "options": [
+      "أ",
+      "ب",
+      "ت"
+    ],
+    "correctAnswer": "أ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 205,
+    "lessonId": 101,
+    "type": "multiple_choice",
+    "question": "بطة تبدأ بـ؟",
+    "options": [
+      "أ",
+      "ب",
+      "ت"
+    ],
+    "correctAnswer": "ب",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 206,
+    "lessonId": 101,
+    "type": "multiple_choice",
+    "question": "تفاحة تبدأ بـ؟",
+    "options": [
+      "ت",
+      "ث",
+      "ب"
+    ],
+    "correctAnswer": "ت",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 207,
+    "lessonId": 101,
+    "type": "multiple_choice",
+    "question": "ثعلب تبدأ بـ؟",
+    "options": [
+      "ت",
+      "ث",
+      "ج"
+    ],
+    "correctAnswer": "ث",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 208,
+    "lessonId": 102,
+    "type": "multiple_choice",
+    "question": "جمل تبدأ بـ؟",
+    "options": [
+      "ج",
+      "ح",
+      "خ"
+    ],
+    "correctAnswer": "ج",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 209,
+    "lessonId": 102,
+    "type": "multiple_choice",
+    "question": "حرف بدون نقطة؟",
+    "options": [
+      "ج",
+      "ح",
+      "خ"
+    ],
+    "correctAnswer": "ح",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 210,
+    "lessonId": 102,
+    "type": "multiple_choice",
+    "question": "خروف تبدأ بـ؟",
+    "options": [
+      "ج",
+      "ح",
+      "خ"
+    ],
+    "correctAnswer": "خ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 211,
+    "lessonId": 102,
+    "type": "multiple_choice",
+    "question": "نقط الخاء؟",
+    "options": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 212,
+    "lessonId": 102,
+    "type": "multiple_choice",
+    "question": "حصان تبدأ بـ؟",
+    "options": [
+      "ج",
+      "ح",
+      "خ"
+    ],
+    "correctAnswer": "ح",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 213,
+    "lessonId": 103,
+    "type": "multiple_choice",
+    "question": "دب تبدأ بـ؟",
+    "options": [
+      "د",
+      "ذ",
+      "ر"
+    ],
+    "correctAnswer": "د",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 214,
+    "lessonId": 103,
+    "type": "multiple_choice",
+    "question": "زهرة تبدأ بـ؟",
+    "options": [
+      "ر",
+      "ز",
+      "د"
+    ],
+    "correctAnswer": "ز",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 215,
+    "lessonId": 103,
+    "type": "multiple_choice",
+    "question": "رمان تبدأ بـ؟",
+    "options": [
+      "ر",
+      "ز",
+      "د"
+    ],
+    "correctAnswer": "ر",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 216,
+    "lessonId": 103,
+    "type": "multiple_choice",
+    "question": "ذهب تبدأ بـ؟",
+    "options": [
+      "د",
+      "ذ",
+      "ز"
+    ],
+    "correctAnswer": "ذ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 217,
+    "lessonId": 103,
+    "type": "multiple_choice",
+    "question": "الدال تتصل بما بعدها؟",
+    "options": [
+      "نعم",
+      "لا",
+      "أحياناً"
+    ],
+    "correctAnswer": "لا",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 218,
+    "lessonId": 104,
+    "type": "multiple_choice",
+    "question": "شمس تبدأ بـ؟",
+    "options": [
+      "س",
+      "ش",
+      "ص"
+    ],
+    "correctAnswer": "ش",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 219,
+    "lessonId": 104,
+    "type": "multiple_choice",
+    "question": "سمكة تبدأ بـ؟",
+    "options": [
+      "س",
+      "ش",
+      "ص"
+    ],
+    "correctAnswer": "س",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 220,
+    "lessonId": 104,
+    "type": "multiple_choice",
+    "question": "صقر تبدأ بـ؟",
+    "options": [
+      "س",
+      "ص",
+      "ض"
+    ],
+    "correctAnswer": "ص",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 221,
+    "lessonId": 104,
+    "type": "multiple_choice",
+    "question": "لغة الضاد؟",
+    "options": [
+      "الإنجليزية",
+      "الفرنسية",
+      "العربية"
+    ],
+    "correctAnswer": "العربية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 222,
+    "lessonId": 104,
+    "type": "multiple_choice",
+    "question": "ضفدع تبدأ بـ؟",
+    "options": [
+      "ص",
+      "ض",
+      "ط"
+    ],
+    "correctAnswer": "ض",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 223,
+    "lessonId": 105,
+    "type": "multiple_choice",
+    "question": "طائر تبدأ بـ؟",
+    "options": [
+      "ط",
+      "ظ",
+      "ع"
+    ],
+    "correctAnswer": "ط",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 224,
+    "lessonId": 105,
+    "type": "multiple_choice",
+    "question": "عنب تبدأ بـ؟",
+    "options": [
+      "ع",
+      "غ",
+      "ف"
+    ],
+    "correctAnswer": "ع",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 225,
+    "lessonId": 105,
+    "type": "multiple_choice",
+    "question": "غزال تبدأ بـ؟",
+    "options": [
+      "ع",
+      "غ",
+      "ف"
+    ],
+    "correctAnswer": "غ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 226,
+    "lessonId": 105,
+    "type": "multiple_choice",
+    "question": "ظرف تبدأ بـ؟",
+    "options": [
+      "ط",
+      "ظ",
+      "ع"
+    ],
+    "correctAnswer": "ظ",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 227,
+    "lessonId": 105,
+    "type": "multiple_choice",
+    "question": "الفرق بين ط وظ؟",
+    "options": [
+      "نقطة",
+      "حجم",
+      "لون"
+    ],
+    "correctAnswer": "نقطة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 228,
+    "lessonId": 106,
+    "type": "multiple_choice",
+    "question": "فيل تبدأ بـ؟",
+    "options": [
+      "ف",
+      "ق",
+      "ك"
+    ],
+    "correctAnswer": "ف",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 229,
+    "lessonId": 106,
+    "type": "multiple_choice",
+    "question": "قمر تبدأ بـ؟",
+    "options": [
+      "ف",
+      "ق",
+      "ك"
+    ],
+    "correctAnswer": "ق",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 230,
+    "lessonId": 106,
+    "type": "multiple_choice",
+    "question": "كتاب تبدأ بـ؟",
+    "options": [
+      "ق",
+      "ك",
+      "ل"
+    ],
+    "correctAnswer": "ك",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 231,
+    "lessonId": 106,
+    "type": "multiple_choice",
+    "question": "ليمون تبدأ بـ؟",
+    "options": [
+      "ك",
+      "ل",
+      "م"
+    ],
+    "correctAnswer": "ل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 232,
+    "lessonId": 106,
+    "type": "multiple_choice",
+    "question": "نقط القاف؟",
+    "options": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 233,
+    "lessonId": 107,
+    "type": "multiple_choice",
+    "question": "موز تبدأ بـ؟",
+    "options": [
+      "ل",
+      "م",
+      "ن"
+    ],
+    "correctAnswer": "م",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 234,
+    "lessonId": 107,
+    "type": "multiple_choice",
+    "question": "نجمة تبدأ بـ؟",
+    "options": [
+      "م",
+      "ن",
+      "ه"
+    ],
+    "correctAnswer": "ن",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 235,
+    "lessonId": 107,
+    "type": "multiple_choice",
+    "question": "هرم تبدأ بـ؟",
+    "options": [
+      "ه",
+      "و",
+      "ي"
+    ],
+    "correctAnswer": "ه",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 236,
+    "lessonId": 107,
+    "type": "multiple_choice",
+    "question": "وردة تبدأ بـ؟",
+    "options": [
+      "ه",
+      "و",
+      "ي"
+    ],
+    "correctAnswer": "و",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 237,
+    "lessonId": 107,
+    "type": "multiple_choice",
+    "question": "يد تبدأ بـ؟",
+    "options": [
+      "ه",
+      "و",
+      "ي"
+    ],
+    "correctAnswer": "ي",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 238,
+    "lessonId": 108,
+    "type": "multiple_choice",
+    "question": "معنى أب؟",
+    "options": [
+      "Father",
+      "Mother",
+      "Brother"
+    ],
+    "correctAnswer": "Father",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 239,
+    "lessonId": 108,
+    "type": "multiple_choice",
+    "question": "مؤنث أخ؟",
+    "options": [
+      "أم",
+      "أخت",
+      "جدة"
+    ],
+    "correctAnswer": "أخت",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 240,
+    "lessonId": 108,
+    "type": "fill_blank",
+    "question": "أبي و___ يحبانني",
+    "correctAnswer": "أمي",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 241,
+    "lessonId": 108,
+    "type": "multiple_choice",
+    "question": "معنى جدة؟",
+    "options": [
+      "Grandmother",
+      "Sister",
+      "Aunt"
+    ],
+    "correctAnswer": "Grandmother",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 242,
+    "lessonId": 108,
+    "type": "multiple_choice",
+    "question": "أمي ___",
+    "options": [
+      "جميلة",
+      "كبير",
+      "سريع"
+    ],
+    "correctAnswer": "جميلة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 243,
+    "lessonId": 109,
+    "type": "multiple_choice",
+    "question": "صوت القط؟",
+    "options": [
+      "يعوي",
+      "يموء",
+      "يزأر"
+    ],
+    "correctAnswer": "يموء",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 244,
+    "lessonId": 109,
+    "type": "multiple_choice",
+    "question": "ملك الغابة؟",
+    "options": [
+      "الفيل",
+      "الأسد",
+      "القط"
+    ],
+    "correctAnswer": "الأسد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 245,
+    "lessonId": 109,
+    "type": "multiple_choice",
+    "question": "الكلب حيوان ___",
+    "options": [
+      "وفي",
+      "كسول",
+      "غاضب"
+    ],
+    "correctAnswer": "وفي",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 246,
+    "lessonId": 109,
+    "type": "fill_blank",
+    "question": "ال___ يطير",
+    "correctAnswer": "طائر",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 247,
+    "lessonId": 109,
+    "type": "multiple_choice",
+    "question": "أكبر حيوان بري؟",
+    "options": [
+      "أسد",
+      "فيل",
+      "حصان"
+    ],
+    "correctAnswer": "فيل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 248,
+    "lessonId": 110,
+    "type": "multiple_choice",
+    "question": "لون السماء؟",
+    "options": [
+      "أحمر",
+      "أخضر",
+      "أزرق"
+    ],
+    "correctAnswer": "أزرق",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 249,
+    "lessonId": 110,
+    "type": "multiple_choice",
+    "question": "لون الشمس؟",
+    "options": [
+      "أبيض",
+      "أصفر",
+      "أحمر"
+    ],
+    "correctAnswer": "أصفر",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 250,
+    "lessonId": 110,
+    "type": "multiple_choice",
+    "question": "لون العشب؟",
+    "options": [
+      "أزرق",
+      "أصفر",
+      "أخضر"
+    ],
+    "correctAnswer": "أخضر",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 251,
+    "lessonId": 110,
+    "type": "fill_blank",
+    "question": "الثلج لونه ___",
+    "correctAnswer": "أبيض",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 252,
+    "lessonId": 110,
+    "type": "multiple_choice",
+    "question": "ألوان قوس قزح؟",
+    "options": [
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 253,
+    "lessonId": 111,
+    "type": "multiple_choice",
+    "question": "٣ بالحروف؟",
+    "options": [
+      "واحد",
+      "اثنان",
+      "ثلاثة"
+    ],
+    "correctAnswer": "ثلاثة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 254,
+    "lessonId": 111,
+    "type": "multiple_choice",
+    "question": "٥+٥=؟",
+    "options": [
+      "ثمانية",
+      "عشرة",
+      "اثنا عشر"
+    ],
+    "correctAnswer": "عشرة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 255,
+    "lessonId": 111,
+    "type": "fill_blank",
+    "question": "واحد اثنان ___ أربعة",
+    "correctAnswer": "ثلاثة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 256,
+    "lessonId": 111,
+    "type": "multiple_choice",
+    "question": "بعد تسعة؟",
+    "options": [
+      "ثمانية",
+      "عشرة",
+      "أحد عشر"
+    ],
+    "correctAnswer": "عشرة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 257,
+    "lessonId": 111,
+    "type": "multiple_choice",
+    "question": "٧ بالحروف؟",
+    "options": [
+      "ستة",
+      "سبعة",
+      "ثمانية"
+    ],
+    "correctAnswer": "سبعة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 258,
+    "lessonId": 112,
+    "type": "fill_blank",
+    "question": "___ أحب المدرسة",
+    "correctAnswer": "أنا",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 259,
+    "lessonId": 112,
+    "type": "multiple_choice",
+    "question": "عمري سبع ___",
+    "options": [
+      "أيام",
+      "سنوات",
+      "كتب"
+    ],
+    "correctAnswer": "سنوات",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 260,
+    "lessonId": 112,
+    "type": "multiple_choice",
+    "question": "أنا أحب ___",
+    "options": [
+      "القراءة",
+      "يلعب",
+      "جميل"
+    ],
+    "correctAnswer": "القراءة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 261,
+    "lessonId": 112,
+    "type": "fill_blank",
+    "question": "اسمي أحمد و___ سبع سنوات",
+    "correctAnswer": "عمري",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 262,
+    "lessonId": 112,
+    "type": "multiple_choice",
+    "question": "اسمي ___",
+    "options": [
+      "يلعب",
+      "أحمد",
+      "كتاب"
+    ],
+    "correctAnswer": "أحمد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 263,
+    "lessonId": 113,
+    "type": "multiple_choice",
+    "question": "الشمس ___",
+    "options": [
+      "باردة",
+      "مشرقة",
+      "مظلمة"
+    ],
+    "correctAnswer": "مشرقة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 264,
+    "lessonId": 113,
+    "type": "multiple_choice",
+    "question": "الشتاء جو ___",
+    "options": [
+      "حار",
+      "بارد",
+      "معتدل"
+    ],
+    "correctAnswer": "بارد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 265,
+    "lessonId": 113,
+    "type": "fill_blank",
+    "question": "السماء ___ اللون",
+    "correctAnswer": "زرقاء",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 266,
+    "lessonId": 113,
+    "type": "multiple_choice",
+    "question": "المطر من ___",
+    "options": [
+      "الأرض",
+      "السماء",
+      "البحر"
+    ],
+    "correctAnswer": "السماء",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 267,
+    "lessonId": 113,
+    "type": "multiple_choice",
+    "question": "فصل فيه أزهار؟",
+    "options": [
+      "الشتاء",
+      "الصيف",
+      "الربيع"
+    ],
+    "correctAnswer": "الربيع",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 268,
+    "lessonId": 114,
+    "type": "multiple_choice",
+    "question": "المدرسة ل___",
+    "options": [
+      "النوم",
+      "التعلم",
+      "اللعب"
+    ],
+    "correctAnswer": "التعلم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 269,
+    "lessonId": 114,
+    "type": "multiple_choice",
+    "question": "من يعلمنا؟",
+    "options": [
+      "الطبيب",
+      "المعلم",
+      "السائق"
+    ],
+    "correctAnswer": "المعلم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 270,
+    "lessonId": 114,
+    "type": "fill_blank",
+    "question": "أكتب بال___",
+    "correctAnswer": "قلم",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 271,
+    "lessonId": 114,
+    "type": "multiple_choice",
+    "question": "نقرأ في ___",
+    "options": [
+      "القلم",
+      "الكتاب",
+      "الحقيبة"
+    ],
+    "correctAnswer": "الكتاب",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 272,
+    "lessonId": 114,
+    "type": "multiple_choice",
+    "question": "نلعب في ___",
+    "options": [
+      "الصف",
+      "المكتبة",
+      "الساحة"
+    ],
+    "correctAnswer": "الساحة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 273,
+    "lessonId": 115,
+    "type": "multiple_choice",
+    "question": "كتاب=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "اسم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 274,
+    "lessonId": 115,
+    "type": "multiple_choice",
+    "question": "يكتب=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "فعل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 275,
+    "lessonId": 115,
+    "type": "multiple_choice",
+    "question": "في=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "حرف",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 276,
+    "lessonId": 115,
+    "type": "multiple_choice",
+    "question": "شجرة=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "اسم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 277,
+    "lessonId": 115,
+    "type": "multiple_choice",
+    "question": "يلعب=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "فعل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 278,
+    "lessonId": 116,
+    "type": "multiple_choice",
+    "question": "مؤنث معلم؟",
+    "options": [
+      "معلمة",
+      "معلمون",
+      "معلمان"
+    ],
+    "correctAnswer": "معلمة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 279,
+    "lessonId": 116,
+    "type": "multiple_choice",
+    "question": "طالبة: مذكر/مؤنث؟",
+    "options": [
+      "مذكر",
+      "مؤنث",
+      "محايد"
+    ],
+    "correctAnswer": "مؤنث",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 280,
+    "lessonId": 116,
+    "type": "multiple_choice",
+    "question": "كلمة مؤنثة؟",
+    "options": [
+      "كتاب",
+      "قلم",
+      "شجرة"
+    ],
+    "correctAnswer": "شجرة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 281,
+    "lessonId": 116,
+    "type": "multiple_choice",
+    "question": "ة علامة ___",
+    "options": [
+      "المذكر",
+      "المؤنث",
+      "الجمع"
+    ],
+    "correctAnswer": "المؤنث",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 282,
+    "lessonId": 116,
+    "type": "fill_blank",
+    "question": "أسد - لب___",
+    "correctAnswer": "ؤة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 283,
+    "lessonId": 117,
+    "type": "multiple_choice",
+    "question": "جمع ولد؟",
+    "options": [
+      "ولدان",
+      "أولاد",
+      "ولدين"
+    ],
+    "correctAnswer": "أولاد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 284,
+    "lessonId": 117,
+    "type": "multiple_choice",
+    "question": "مثنى كتاب؟",
+    "options": [
+      "كتب",
+      "كتابان",
+      "كتابين"
+    ],
+    "correctAnswer": "كتابان",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 285,
+    "lessonId": 117,
+    "type": "fill_blank",
+    "question": "معلم___ (مثنى)",
+    "correctAnswer": "ان",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 286,
+    "lessonId": 117,
+    "type": "multiple_choice",
+    "question": "بنات=___",
+    "options": [
+      "مفرد",
+      "مثنى",
+      "جمع"
+    ],
+    "correctAnswer": "جمع",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 287,
+    "lessonId": 117,
+    "type": "multiple_choice",
+    "question": "معلم=___",
+    "options": [
+      "مفرد",
+      "مثنى",
+      "جمع"
+    ],
+    "correctAnswer": "مفرد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 288,
+    "lessonId": 118,
+    "type": "multiple_choice",
+    "question": "الشمس مشرقة: جملة ___",
+    "options": [
+      "اسمية",
+      "فعلية",
+      "شرطية"
+    ],
+    "correctAnswer": "اسمية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 289,
+    "lessonId": 118,
+    "type": "multiple_choice",
+    "question": "يلعب الولد: جملة ___",
+    "options": [
+      "اسمية",
+      "فعلية",
+      "شرطية"
+    ],
+    "correctAnswer": "فعلية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 290,
+    "lessonId": 118,
+    "type": "multiple_choice",
+    "question": "الكتاب مفيد تبدأ بـ___",
+    "options": [
+      "فعل",
+      "اسم",
+      "حرف"
+    ],
+    "correctAnswer": "اسم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 291,
+    "lessonId": 118,
+    "type": "fill_blank",
+    "question": "يقرأ الطالب: جملة ___",
+    "correctAnswer": "فعلية",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 292,
+    "lessonId": 118,
+    "type": "multiple_choice",
+    "question": "البيت كبير: جملة ___",
+    "options": [
+      "اسمية",
+      "فعلية",
+      "شرطية"
+    ],
+    "correctAnswer": "اسمية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 293,
+    "lessonId": 119,
+    "type": "multiple_choice",
+    "question": "القط ذهب إلى ___",
+    "options": [
+      "المدرسة",
+      "الحديقة",
+      "البيت"
+    ],
+    "correctAnswer": "الحديقة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 294,
+    "lessonId": 119,
+    "type": "multiple_choice",
+    "question": "القط رأى ___",
+    "options": [
+      "طائر",
+      "فراشة",
+      "سمكة"
+    ],
+    "correctAnswer": "فراشة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 295,
+    "lessonId": 119,
+    "type": "multiple_choice",
+    "question": "ذهب=___",
+    "options": [
+      "اسم",
+      "فعل",
+      "حرف"
+    ],
+    "correctAnswer": "فعل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 296,
+    "lessonId": 119,
+    "type": "multiple_choice",
+    "question": "الفراشة كانت ___",
+    "options": [
+      "قبيحة",
+      "جميلة",
+      "كبيرة"
+    ],
+    "correctAnswer": "جميلة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 297,
+    "lessonId": 119,
+    "type": "fill_blank",
+    "question": "القط ___ ذهب إلى الحديقة",
+    "correctAnswer": "الصغير",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 298,
+    "lessonId": 120,
+    "type": "multiple_choice",
+    "question": "من فاز؟",
+    "options": [
+      "الأرنب",
+      "السلحفاة",
+      "لا أحد"
+    ],
+    "correctAnswer": "السلحفاة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 299,
+    "lessonId": 120,
+    "type": "multiple_choice",
+    "question": "لماذا خسر الأرنب؟",
+    "options": [
+      "بطيء",
+      "نام",
+      "مريض"
+    ],
+    "correctAnswer": "نام",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 300,
+    "lessonId": 120,
+    "type": "multiple_choice",
+    "question": "درس القصة؟",
+    "options": [
+      "لا تلعب",
+      "لا تنم",
+      "لا تستهن بأحد"
+    ],
+    "correctAnswer": "لا تستهن بأحد",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 301,
+    "lessonId": 120,
+    "type": "fill_blank",
+    "question": "السلحفاة ___ لكنها مثابرة",
+    "correctAnswer": "بطيئة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 302,
+    "lessonId": 120,
+    "type": "multiple_choice",
+    "question": "الأرنب كان ___",
+    "options": [
+      "بطيئاً",
+      "سريعاً",
+      "حزيناً"
+    ],
+    "correctAnswer": "سريعاً",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 303,
+    "lessonId": 121,
+    "type": "multiple_choice",
+    "question": "حرف لا يتصل بما بعده؟",
+    "options": [
+      "ب",
+      "د",
+      "ك"
+    ],
+    "correctAnswer": "د",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 304,
+    "lessonId": 121,
+    "type": "multiple_choice",
+    "question": "الراء تتصل؟",
+    "options": [
+      "نعم",
+      "لا",
+      "أحياناً"
+    ],
+    "correctAnswer": "لا",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 305,
+    "lessonId": 121,
+    "type": "multiple_choice",
+    "question": "حروف بسم ___",
+    "options": [
+      "متصلة",
+      "منفصلة",
+      "مختلطة"
+    ],
+    "correctAnswer": "متصلة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 306,
+    "lessonId": 121,
+    "type": "fill_blank",
+    "question": "حروف لا تتصل: أ د ذ ر ز ___",
+    "correctAnswer": "و",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 307,
+    "lessonId": 121,
+    "type": "multiple_choice",
+    "question": "الدال ___",
+    "options": [
+      "يتصل",
+      "لا يتصل",
+      "أحياناً"
+    ],
+    "correctAnswer": "لا يتصل",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 308,
+    "lessonId": 122,
+    "type": "multiple_choice",
+    "question": "كتاباً=تنوين ___",
+    "options": [
+      "فتح",
+      "ضم",
+      "كسر"
+    ],
+    "correctAnswer": "فتح",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 309,
+    "lessonId": 122,
+    "type": "multiple_choice",
+    "question": "كتابٌ=تنوين ___",
+    "options": [
+      "فتح",
+      "ضم",
+      "كسر"
+    ],
+    "correctAnswer": "ضم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 310,
+    "lessonId": 122,
+    "type": "multiple_choice",
+    "question": "كتابٍ=تنوين ___",
+    "options": [
+      "فتح",
+      "ضم",
+      "كسر"
+    ],
+    "correctAnswer": "كسر",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 311,
+    "lessonId": 122,
+    "type": "multiple_choice",
+    "question": "أنواع التنوين؟",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 312,
+    "lessonId": 122,
+    "type": "fill_blank",
+    "question": "التنوين نون ___ في آخر الكلمة",
+    "correctAnswer": "ساكنة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 313,
+    "lessonId": 123,
+    "type": "multiple_choice",
+    "question": "أكل: همزة على ___",
+    "options": [
+      "الألف",
+      "الواو",
+      "الياء"
+    ],
+    "correctAnswer": "الألف",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 314,
+    "lessonId": 123,
+    "type": "multiple_choice",
+    "question": "سؤال: همزة على ___",
+    "options": [
+      "الألف",
+      "الواو",
+      "الياء"
+    ],
+    "correctAnswer": "الواو",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 315,
+    "lessonId": 123,
+    "type": "multiple_choice",
+    "question": "قائم: همزة على ___",
+    "options": [
+      "الألف",
+      "الواو",
+      "الياء"
+    ],
+    "correctAnswer": "الياء",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 316,
+    "lessonId": 123,
+    "type": "multiple_choice",
+    "question": "أشكال الهمزة؟",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 317,
+    "lessonId": 123,
+    "type": "fill_blank",
+    "question": "الهمزة تكتب بأشكال ___",
+    "correctAnswer": "مختلفة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 318,
+    "lessonId": 124,
+    "type": "multiple_choice",
+    "question": "بَ فيها ___",
+    "options": [
+      "فتحة",
+      "ضمة",
+      "كسرة"
+    ],
+    "correctAnswer": "فتحة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 319,
+    "lessonId": 124,
+    "type": "multiple_choice",
+    "question": "بُ فيها ___",
+    "options": [
+      "فتحة",
+      "ضمة",
+      "كسرة"
+    ],
+    "correctAnswer": "ضمة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 320,
+    "lessonId": 124,
+    "type": "multiple_choice",
+    "question": "بِ فيها ___",
+    "options": [
+      "فتحة",
+      "ضمة",
+      "كسرة"
+    ],
+    "correctAnswer": "كسرة",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 321,
+    "lessonId": 124,
+    "type": "multiple_choice",
+    "question": "بْ فيها ___",
+    "options": [
+      "فتحة",
+      "سكون",
+      "شدة"
+    ],
+    "correctAnswer": "سكون",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 322,
+    "lessonId": 124,
+    "type": "fill_blank",
+    "question": "الحركات تساعدنا في ال___",
+    "correctAnswer": "قراءة",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 323,
+    "lessonId": 125,
+    "type": "multiple_choice",
+    "question": "الشمس: أل ___",
+    "options": [
+      "شمسية",
+      "قمرية",
+      "عادية"
+    ],
+    "correctAnswer": "شمسية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 324,
+    "lessonId": 125,
+    "type": "multiple_choice",
+    "question": "القمر: أل ___",
+    "options": [
+      "شمسية",
+      "قمرية",
+      "عادية"
+    ],
+    "correctAnswer": "قمرية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 325,
+    "lessonId": 125,
+    "type": "multiple_choice",
+    "question": "أل الشمسية اللام ___",
+    "options": [
+      "تُنطق",
+      "لا تُنطق",
+      "تختفي"
+    ],
+    "correctAnswer": "لا تُنطق",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 326,
+    "lessonId": 125,
+    "type": "fill_blank",
+    "question": "الكتاب: أل ___",
+    "correctAnswer": "قمرية",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 327,
+    "lessonId": 125,
+    "type": "multiple_choice",
+    "question": "الشجرة: أل؟",
+    "options": [
+      "شمسية",
+      "قمرية",
+      "لا أعرف"
+    ],
+    "correctAnswer": "شمسية",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 328,
+    "lessonId": 126,
+    "type": "multiple_choice",
+    "question": "أنا ضمير ___",
+    "options": [
+      "متكلم",
+      "مخاطب",
+      "غائب"
+    ],
+    "correctAnswer": "متكلم",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 329,
+    "lessonId": 126,
+    "type": "multiple_choice",
+    "question": "هو ضمير ___",
+    "options": [
+      "متكلم",
+      "مخاطب",
+      "غائب"
+    ],
+    "correctAnswer": "غائب",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 330,
+    "lessonId": 126,
+    "type": "multiple_choice",
+    "question": "أنتَ ضمير ___",
+    "options": [
+      "متكلم",
+      "مخاطب",
+      "غائب"
+    ],
+    "correctAnswer": "مخاطب",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  },
+  {
+    "id": 331,
+    "lessonId": 126,
+    "type": "fill_blank",
+    "question": "___ نتعلم العربية",
+    "correctAnswer": "نحن",
+    "feedbackCorrect": "Great job! ⭐",
+    "feedbackWrong": "You can do it! 💪"
+  },
+  {
+    "id": 332,
+    "lessonId": 126,
+    "type": "multiple_choice",
+    "question": "عدد الضمائر الرئيسية؟",
+    "options": [
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "7",
+    "feedbackCorrect": "Awesome! 🎉",
+    "feedbackWrong": "Almost! Try again 😊"
+  }
+]

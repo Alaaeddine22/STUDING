@@ -1,0 +1,30 @@
+{
+  "milestones": [
+    { "id": 1, "name": "First Step! 🌱", "description": "Complete your first lesson", "requirement": { "type": "lessons_completed", "count": 1 }, "reward": { "stars": 5, "badge": "🌱" } },
+    { "id": 2, "name": "Getting Started! 🚀", "description": "Complete 5 lessons", "requirement": { "type": "lessons_completed", "count": 5 }, "reward": { "stars": 15, "badge": "🚀" } },
+    { "id": 3, "name": "Math Explorer! 🔢", "description": "Complete 10 math lessons", "requirement": { "type": "subject_lessons", "subject": "math", "count": 10 }, "reward": { "stars": 25, "badge": "🔢" } },
+    { "id": 4, "name": "Arabic Explorer! 📝", "description": "Complete 10 Arabic lessons", "requirement": { "type": "subject_lessons", "subject": "arabic", "count": 10 }, "reward": { "stars": 25, "badge": "📝" } },
+    { "id": 5, "name": "Star Collector! ⭐", "description": "Earn 50 stars", "requirement": { "type": "total_stars", "count": 50 }, "reward": { "stars": 10, "badge": "⭐" } },
+    { "id": 6, "name": "Super Star! 🌟", "description": "Earn 100 stars", "requirement": { "type": "total_stars", "count": 100 }, "reward": { "stars": 20, "badge": "🌟" } },
+    { "id": 7, "name": "Perfect Score! 💯", "description": "Get all answers right in a lesson", "requirement": { "type": "perfect_lesson", "count": 1 }, "reward": { "stars": 15, "badge": "💯" } },
+    { "id": 8, "name": "Daily Champion! 🏅", "description": "Complete 5 daily challenges", "requirement": { "type": "daily_challenges", "count": 5 }, "reward": { "stars": 20, "badge": "🏅" } },
+    { "id": 9, "name": "Knowledge Master! 🧠", "description": "Complete 20 lessons", "requirement": { "type": "lessons_completed", "count": 20 }, "reward": { "stars": 50, "badge": "🧠" } },
+    { "id": 10, "name": "Champion! 🏆", "description": "Complete all lessons in a subject", "requirement": { "type": "subject_complete", "count": 1 }, "reward": { "stars": 100, "badge": "🏆" } }
+  ],
+  "streakRewards": [
+    { "days": 3, "bonus": 5, "message": "3 days in a row! 🔥" },
+    { "days": 7, "bonus": 15, "message": "A whole week! 🎉" },
+    { "days": 14, "bonus": 30, "message": "Two weeks champion! 💪" },
+    { "days": 30, "bonus": 100, "message": "Monthly master! 👑" }
+  ],
+  "levelThresholds": [
+    { "level": 1, "starsRequired": 0, "title": "Beginner 🌱" },
+    { "level": 2, "starsRequired": 20, "title": "Learner 📚" },
+    { "level": 3, "starsRequired": 50, "title": "Explorer 🧭" },
+    { "level": 4, "starsRequired": 100, "title": "Achiever 🎯" },
+    { "level": 5, "starsRequired": 200, "title": "Expert 🧠" },
+    { "level": 6, "starsRequired": 350, "title": "Master 🏅" },
+    { "level": 7, "starsRequired": 500, "title": "Champion 🏆" },
+    { "level": 8, "starsRequired": 750, "title": "Legend 👑" }
+  ]
+}

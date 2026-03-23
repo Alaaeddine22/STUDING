@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "subject": "math",
+    "level": 1,
+    "category": "numbers",
+    "title": "Numbers 0–10",
+    "explanation": "Let's learn numbers from 0 to 10! Numbers are everywhere — count your fingers, your toys, and the stars! 🌟",
+    "examples": ["0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10", "Count your fingers: you have 10!", "If you have 3 apples 🍎🍎🍎, that's the number 3"],
+    "funTip": "Did you know? Zero means nothing at all! Like an empty cookie jar 🍪"
+  },
+  {
+    "id": 2,
+    "subject": "math",
+    "level": 1,
+    "category": "numbers",
+    "title": "Numbers 10–20",
+    "explanation": "Now let's go higher! Numbers from 10 to 20. After 10 comes 11, 12... all the way to 20!",
+    "examples": ["11, 12, 13, 14, 15, 16, 17, 18, 19, 20", "Count your fingers and toes: 20!", "A dozen eggs is 12 eggs 🥚"],
+    "funTip": "A soccer team has 11 players! ⚽"
+  },
+  {
+    "id": 3,
+    "subject": "math",
+    "level": 1,
+    "category": "numbers",
+    "title": "Numbers 20–100",
+    "explanation": "Big numbers time! We count by tens: 20, 30, 40, 50, 60, 70, 80, 90, 100! 🎉",
+    "examples": ["20, 30, 40, 50, 60, 70, 80, 90, 100", "There are 100 centimeters in 1 meter", "A century = 100 years!"],
+    "funTip": "If you save 1 coin every day, in 100 days you'll have 100 coins! 💰"
+  },
+  {
+    "id": 4,
+    "subject": "math",
+    "level": 2,
+    "category": "numbers",
+    "title": "Numbers 100–1000",
+    "explanation": "Let's explore even bigger numbers! Hundreds go 100, 200, 300... up to 1000!",
+    "examples": ["100, 200, 300, 400, 500, 600, 700, 800, 900, 1000", "365 days in a year", "1000 meters = 1 kilometer"],
+    "funTip": "A giraffe is about 500 cm tall! 🦒"
+  },
+  {
+    "id": 5,
+    "subject": "math",
+    "level": 1,
+    "category": "addition",
+    "title": "Addition: Adding Small Numbers",
+    "explanation": "Addition means putting things together! When you have 2 apples and get 3 more, you have 2 + 3 = 5 apples! 🍎",
+    "examples": ["1 + 1 = 2", "2 + 3 = 5", "4 + 1 = 5"],
+    "funTip": "Think of addition as collecting more stickers! 🌈"
+  },
+  {
+    "id": 6,
+    "subject": "math",
+    "level": 1,
+    "category": "addition",
+    "title": "Addition: Sums up to 20",
+    "explanation": "Let's add bigger numbers! Remember: start from the bigger number and count up. 7 + 5 = 12!",
+    "examples": ["6 + 4 = 10", "8 + 7 = 15", "9 + 9 = 18"],
+    "funTip": "Use your fingers to help count! No one will judge 😄"
+  },
+  {
+    "id": 7,
+    "subject": "math",
+    "level": 2,
+    "category": "addition",
+    "title": "Addition: Two-Digit Numbers",
+    "explanation": "Adding two-digit numbers: add ones first, then tens. 23 + 14 = 37! Stack them to make it easy.",
+    "examples": ["12 + 15 = 27", "23 + 14 = 37", "30 + 20 = 50"],
+    "funTip": "Break big problems into small ones. You're a math wizard! 🧙‍♂️"
+  },
+  {
+    "id": 8,
+    "subject": "math",
+    "level": 3,
+    "category": "addition",
+    "title": "Addition: Three-Digit Numbers",
+    "explanation": "Adding three-digit numbers! Same trick: ones, tens, then hundreds. Don't forget to carry over!",
+    "examples": ["123 + 456 = 579", "200 + 300 = 500", "150 + 250 = 400"],
+    "funTip": "Imagine you're stacking coins — ones on ones, tens on tens! 🪙"
+  },
+  {
+    "id": 9,
+    "subject": "math",
+    "level": 1,
+    "category": "subtraction",
+    "title": "Subtraction: Taking Away",
+    "explanation": "Subtraction means taking away! If you have 5 candies and eat 2, you have 5 - 2 = 3 candies left! 🍬",
+    "examples": ["5 - 2 = 3", "4 - 1 = 3", "3 - 3 = 0"],
+    "funTip": "Subtraction is like sharing with friends! How kind! 💝"
+  },
+  {
+    "id": 10,
+    "subject": "math",
+    "level": 1,
+    "category": "subtraction",
+    "title": "Subtraction: Numbers up to 20",
+    "explanation": "Let's subtract bigger numbers! 15 - 8 = 7. Count backwards from 15, eight steps!",
+    "examples": ["10 - 5 = 5", "15 - 8 = 7", "20 - 11 = 9"],
+    "funTip": "Counting backwards is like a rocket launch! 🚀 3, 2, 1... blast off!"
+  },
+  {
+    "id": 11,
+    "subject": "math",
+    "level": 2,
+    "category": "subtraction",
+    "title": "Subtraction: Two-Digit Numbers",
+    "explanation": "Subtracting two-digit numbers: subtract ones, then tens. 45 - 23 = 22!",
+    "examples": ["45 - 23 = 22", "50 - 30 = 20", "67 - 34 = 33"],
+    "funTip": "Think of it as going down stairs — one step at a time! 🪜"
+  },
+  {
+    "id": 12,
+    "subject": "math",
+    "level": 3,
+    "category": "subtraction",
+    "title": "Subtraction: With Borrowing",
+    "explanation": "Sometimes we need to borrow! If ones column is too small, borrow from tens. 42 - 17 = 25!",
+    "examples": ["42 - 17 = 25", "53 - 28 = 25", "80 - 35 = 45"],
+    "funTip": "Borrowing is like asking your neighbor for help. Teamwork! 🤝"
+  },
+  {
+    "id": 13,
+    "subject": "math",
+    "level": 1,
+    "category": "multiplication",
+    "title": "Multiplication: What Is It?",
+    "explanation": "Multiplication is fast addition! 3 × 2 means 3 + 3 = 6. It's like groups! 3 groups of 2! 🎯",
+    "examples": ["2 × 3 = 6 (three groups of two)", "4 × 2 = 8", "5 × 1 = 5"],
+    "funTip": "Multiplication makes counting super fast! Like a superhero! 🦸"
+  },
+  {
+    "id": 14,
+    "subject": "math",
+    "level": 1,
+    "category": "multiplication",
+    "title": "Times Table: 2",
+    "explanation": "The 2 times table: everything doubles! 2, 4, 6, 8, 10, 12...",
+    "examples": ["2 × 1 = 2", "2 × 5 = 10", "2 × 6 = 12"],
+    "funTip": "Pairs of socks! Every pair is ×2! 🧦🧦"
+  },
+  {
+    "id": 15,
+    "subject": "math",
+    "level": 1,
+    "category": "multiplication",
+    "title": "Times Table: 3",
+    "explanation": "The 3 times table: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30!",
+    "examples": ["3 × 2 = 6", "3 × 4 = 12", "3 × 7 = 21"],
+    "funTip": "A triangle has 3 sides. 4 triangles = 12 sides! 📐"
+  },
+  {
+    "id": 16,
+    "subject": "math",
+    "level": 2,
+    "category": "multiplication",
+    "title": "Times Table: 4 and 5",
+    "explanation": "4 times table: 4, 8, 12, 16, 20... 5 times table: 5, 10, 15, 20, 25... notice the pattern!",
+    "examples": ["4 × 3 = 12", "5 × 5 = 25", "4 × 6 = 24"],
+    "funTip": "5 times table always ends in 0 or 5. Easy! 🖐️"
+  },
+  {
+    "id": 17,
+    "subject": "math",
+    "level": 2,
+    "category": "multiplication",
+    "title": "Times Table: 6 and 7",
+    "explanation": "6 times table: 6, 12, 18, 24, 30... 7 times table: 7, 14, 21, 28, 35...",
+    "examples": ["6 × 4 = 24", "7 × 3 = 21", "6 × 7 = 42"],
+    "funTip": "7 days in a week! 2 weeks = 7 × 2 = 14 days! 📅"
+  },
+  {
+    "id": 18,
+    "subject": "math",
+    "level": 2,
+    "category": "multiplication",
+    "title": "Times Table: 8 and 9",
+    "explanation": "8 times table: 8, 16, 24, 32, 40... 9 times table has a magic trick — digits always add to 9!",
+    "examples": ["8 × 3 = 24", "9 × 4 = 36 (3+6=9!)", "8 × 5 = 40"],
+    "funTip": "9 × any number: use the finger trick! Hold down finger #N and count! 🖐️✋"
+  },
+  {
+    "id": 19,
+    "subject": "math",
+    "level": 3,
+    "category": "multiplication",
+    "title": "Times Table: 10, 11, 12",
+    "explanation": "10 times: just add a zero! 11 times small numbers: repeat the digit! 12 is the last one!",
+    "examples": ["10 × 7 = 70", "11 × 5 = 55", "12 × 4 = 48"],
+    "funTip": "You now know ALL times tables! You're a multiplication master! 👑"
+  },
+  {
+    "id": 20,
+    "subject": "math",
+    "level": 1,
+    "category": "division",
+    "title": "Division: Sharing Equally",
+    "explanation": "Division means sharing equally! 6 ÷ 2 = 3. If you share 6 cookies between 2 friends, each gets 3! 🍪",
+    "examples": ["6 ÷ 2 = 3", "10 ÷ 5 = 2", "8 ÷ 4 = 2"],
+    "funTip": "Division is multiplication backwards! If 3 × 2 = 6, then 6 ÷ 2 = 3! 🔄"
+  },
+  {
+    "id": 21,
+    "subject": "math",
+    "level": 2,
+    "category": "division",
+    "title": "Division: Bigger Numbers",
+    "explanation": "Dividing bigger numbers: 24 ÷ 6 = 4. Use your times tables to help!",
+    "examples": ["24 ÷ 6 = 4", "36 ÷ 9 = 4", "45 ÷ 5 = 9"],
+    "funTip": "Times tables are the key to division. They're best friends! 👫"
+  },
+  {
+    "id": 22,
+    "subject": "math",
+    "level": 3,
+    "category": "division",
+    "title": "Division: With Remainders",
+    "explanation": "Sometimes things don't share perfectly! 7 ÷ 2 = 3 remainder 1. The leftover is the remainder!",
+    "examples": ["7 ÷ 2 = 3 R1", "10 ÷ 3 = 3 R1", "17 ÷ 5 = 3 R2"],
+    "funTip": "Remainders are like leftover pizza slices. Someone lucky gets extra! 🍕"
+  },
+  {
+    "id": 23,
+    "subject": "math",
+    "level": 2,
+    "category": "fractions",
+    "title": "Fractions: What Are They?",
+    "explanation": "A fraction is a part of a whole! 1/2 means one part out of two equal parts. Like cutting a pizza in half! 🍕",
+    "examples": ["1/2 = one half", "1/4 = one quarter", "3/4 = three quarters"],
+    "funTip": "When you share a chocolate bar equally with a friend, you each get 1/2! 🍫"
+  },
+  {
+    "id": 24,
+    "subject": "math",
+    "level": 2,
+    "category": "fractions",
+    "title": "Fractions: Comparing",
+    "explanation": "Which is bigger: 1/2 or 1/4? Think about pizza: half a pizza is bigger than a quarter! 1/2 > 1/4",
+    "examples": ["1/2 > 1/3", "1/4 < 1/2", "2/4 = 1/2"],
+    "funTip": "The bigger the bottom number, the smaller each piece! 🧩"
+  },
+  {
+    "id": 25,
+    "subject": "math",
+    "level": 3,
+    "category": "fractions",
+    "title": "Fractions: Adding & Subtracting",
+    "explanation": "To add fractions with the same bottom number: just add the tops! 1/4 + 2/4 = 3/4",
+    "examples": ["1/4 + 2/4 = 3/4", "3/5 - 1/5 = 2/5", "1/3 + 1/3 = 2/3"],
+    "funTip": "Same bottom? Just add the tops! Easy-peasy! 🎂"
+  },
+  {
+    "id": 26,
+    "subject": "math",
+    "level": 2,
+    "category": "decimals",
+    "title": "Decimals: Introduction",
+    "explanation": "Decimals are another way to show parts! 0.5 = 1/2. The dot is called a decimal point!",
+    "examples": ["0.5 = one half", "0.25 = one quarter", "0.1 = one tenth"],
+    "funTip": "Money uses decimals! $1.50 means one dollar and fifty cents! 💵"
+  },
+  {
+    "id": 27,
+    "subject": "math",
+    "level": 3,
+    "category": "decimals",
+    "title": "Decimals: Adding & Subtracting",
+    "explanation": "Adding decimals: line up the decimal points! 1.5 + 2.3 = 3.8",
+    "examples": ["1.5 + 2.3 = 3.8", "3.7 - 1.2 = 2.5", "0.5 + 0.5 = 1.0"],
+    "funTip": "Keep the dots lined up like soldiers in a row! 🎖️"
+  },
+  {
+    "id": 28,
+    "subject": "math",
+    "level": 1,
+    "category": "geometry",
+    "title": "Shapes: Circle, Square, Triangle",
+    "explanation": "Shapes are everywhere! A circle is round 🔵, a square has 4 equal sides ⬜, a triangle has 3 sides 🔺",
+    "examples": ["Circle: wheels, clocks, pizzas", "Square: windows, boxes, tiles", "Triangle: rooftops, pizza slices, sandwiches"],
+    "funTip": "Look around your room — how many shapes can you find? 👀"
+  },
+  {
+    "id": 29,
+    "subject": "math",
+    "level": 1,
+    "category": "geometry",
+    "title": "Shapes: Rectangle, Oval, Diamond",
+    "explanation": "More shapes! A rectangle has 4 sides (2 long, 2 short). An oval is a stretched circle. A diamond is a tilted square!",
+    "examples": ["Rectangle: doors, books, phones", "Oval: eggs, faces", "Diamond: kites, playing cards"],
+    "funTip": "A rectangle is like a lazy square that stretched out for a nap! 😴"
+  },
+  {
+    "id": 30,
+    "subject": "math",
+    "level": 2,
+    "category": "geometry",
+    "title": "Shapes: Pentagon, Hexagon, Octagon",
+    "explanation": "Penta = 5 sides, Hexa = 6 sides, Octa = 8 sides! A stop sign is an octagon!",
+    "examples": ["Pentagon: 5 sides", "Hexagon: 6 sides (honeycomb!)", "Octagon: 8 sides (stop sign!)"],
+    "funTip": "Bees are amazing builders — honeycomb is made of hexagons! 🐝"
+  },
+  {
+    "id": 31,
+    "subject": "math",
+    "level": 2,
+    "category": "geometry",
+    "title": "Perimeter & Area",
+    "explanation": "Perimeter = distance around a shape. Area = space inside. Perimeter of a square = 4 × side!",
+    "examples": ["Square side 3: perimeter = 12, area = 9", "Rectangle 4×2: perimeter = 12, area = 8"],
+    "funTip": "Perimeter is like walking around a park. Area is the grass inside! 🌳"
+  },
+  {
+    "id": 32,
+    "subject": "math",
+    "level": 1,
+    "category": "time",
+    "title": "Telling Time: Hours",
+    "explanation": "A clock has 12 numbers. The short hand shows hours! When it points to 3, it's 3 o'clock! ⏰",
+    "examples": ["Short hand on 3 → 3:00", "Short hand on 7 → 7:00", "Short hand on 12 → 12:00"],
+    "funTip": "The short hand is slow like a turtle 🐢, the long hand is fast like a rabbit 🐇!"
+  },
+  {
+    "id": 33,
+    "subject": "math",
+    "level": 2,
+    "category": "time",
+    "title": "Telling Time: Minutes",
+    "explanation": "The long hand shows minutes! It goes from 0 to 60. When it points at 6, it's 30 minutes (half past)!",
+    "examples": ["Long hand on 12 → :00", "Long hand on 6 → :30", "Long hand on 3 → :15"],
+    "funTip": "60 minutes = 1 hour. Time to play for 60 minutes! ⏳"
+  },
+  {
+    "id": 34,
+    "subject": "math",
+    "level": 3,
+    "category": "time",
+    "title": "Time: AM/PM & Elapsed Time",
+    "explanation": "AM is morning (midnight to noon). PM is afternoon/night. How long from 2:00 to 5:00? 3 hours!",
+    "examples": ["8:00 AM — morning school time", "3:00 PM — afternoon play time", "From 1:00 to 4:00 = 3 hours"],
+    "funTip": "AM = After Midnight, PM = Past Midday! 🌙☀️"
+  },
+  {
+    "id": 35,
+    "subject": "math",
+    "level": 1,
+    "category": "money",
+    "title": "Money: Coins & Bills",
+    "explanation": "Money helps us buy things! Coins are small and round. Bills are paper. Let's learn their values!",
+    "examples": ["1 coin = 1 unit", "5 coin = 5 units", "10 bill = 10 units"],
+    "funTip": "Save your coins in a piggy bank! 🐷"
+  },
+  {
+    "id": 36,
+    "subject": "math",
+    "level": 2,
+    "category": "money",
+    "title": "Money: Making Change",
+    "explanation": "If something costs 7 and you pay 10, your change is 10 - 7 = 3! Always count your change!",
+    "examples": ["Pay 10, cost 6 → change = 4", "Pay 20, cost 15 → change = 5", "Pay 5, cost 5 → change = 0"],
+    "funTip": "Shopkeepers are math experts! 🏪"
+  },
+  {
+    "id": 37,
+    "subject": "math",
+    "level": 1,
+    "category": "word_problems",
+    "title": "Word Problems: Addition Stories",
+    "explanation": "Let's solve stories with math! Read carefully, find the numbers, and add them!",
+    "examples": ["Ali has 3 cats, he gets 2 more. How many? 3+2=5", "Sara has 4 books and buys 3 more. How many? 4+3=7"],
+    "funTip": "Word problems are just math stories! You're the hero who solves them! 🦸‍♀️"
+  },
+  {
+    "id": 38,
+    "subject": "math",
+    "level": 2,
+    "category": "word_problems",
+    "title": "Word Problems: Mixed Operations",
+    "explanation": "Some stories need subtraction or multiplication! Read carefully to choose the right operation.",
+    "examples": ["Ali had 10 candies, gave away 4. How many left? 10-4=6", "3 bags with 5 oranges each. Total? 3×5=15"],
+    "funTip": "Keywords: 'more/total'=add, 'left/fewer'=subtract, 'each/groups'=multiply! 🔑"
+  },
+  {
+    "id": 39,
+    "subject": "math",
+    "level": 3,
+    "category": "word_problems",
+    "title": "Word Problems: Multi-Step",
+    "explanation": "Harder problems need more than one step! Break them down and solve one step at a time.",
+    "examples": ["Ali has 20 coins. He spends 8 and earns 5. How many? 20-8+5=17"],
+    "funTip": "Big problems are just small problems stacked together! 🧱"
+  },
+  {
+    "id": 40,
+    "subject": "math",
+    "level": 1,
+    "category": "patterns",
+    "title": "Number Patterns",
+    "explanation": "Patterns repeat! 2, 4, 6, 8 — what's next? 10! The pattern adds 2 each time!",
+    "examples": ["2, 4, 6, 8, → 10", "5, 10, 15, 20, → 25", "1, 3, 5, 7, → 9"],
+    "funTip": "Patterns are like secret codes — once you crack it, you're unstoppable! 🕵️"
+  }
+]
